@@ -1,1 +1,1 @@
-Nothing yet
+Helpful site that covers the basics of git: https://www.atlassian.com/git/tutorial/git-basics
